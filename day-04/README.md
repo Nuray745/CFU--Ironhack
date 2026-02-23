@@ -10,4 +10,4 @@ A constructor that initializes all fields All getters and setters
 
 partNumber (type String) partDescription (type String) quantity of the item being purchased (type int) price per item (type double) Your class should have:
 
-A constructor that initializes the four instance variables A getter and setter for each instance variable A method named getInvoiceAmount that calculates the invoice amount (quantity multiplied by price) and returns the amount as a double Validation rules: If the quantity is not positive, it should be set to 0. If the price per item is not positive, it should be set to 0.0...
+A constructor that initializes the four instance variables A getter and setter for each instance variable A method named getInvoiceAmount that calculates the invoice amount (quantity multiplied by price) and returns the amount as a double Validation rules: If the quantity is not positive, it should be set to 0. If the price per item is not positive, it should be set to 0.0.
