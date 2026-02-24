@@ -10,9 +10,12 @@
         <module name="Exercise-2" />
         <module name="ClassesandObjects" />
         <module name="Exercise-1" />
+        <module name="Maven-Project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="JSONtoJava" target="17" />
+      <module name="Maven-Project-with-Gson" target="17" />
       <module name="Standart-input-and-file-handling" target="17" />
     </bytecodeTargetLevel>
   </component>
